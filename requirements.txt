@@ -7,6 +7,10 @@ defusedxml==0.7.1
 Django==4.2.7
 django-allauth==0.58.2
 django-bootstrap5==23.3
+<<<<<<< HEAD
+=======
+django-environ==0.11.2
+>>>>>>> tmp
 idna==3.4
 oauthlib==3.2.2
 Pillow==10.1.0
