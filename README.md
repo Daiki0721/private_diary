@@ -1,12 +1,8 @@
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
+# Diary webapp with Flask
 
 分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
 
 "hoge"が何かを簡潔に紹介する
-
-# DEMO
-
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
 
 # Features
 
@@ -37,7 +33,7 @@ cd examples
 python demo.py
 ```
 
-# Note
+# Output
 
 注意点などがあれば書く
 
@@ -48,12 +44,3 @@ python demo.py
 * 作成者
 * 所属
 * E-mail
-
-# License
-ライセンスを明示する
-
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
-社内向けなら社外秘であることを明示してる
-
-"hoge" is Confidential.
